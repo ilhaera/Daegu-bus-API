@@ -1,0 +1,19 @@
+{
+  "name": "daegu-bus-api",
+  "version": "1.0.0",
+  "description": "Unofficial Daegu bus REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilhaera@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio-httpcli": "^0.7.2",
+    "dateformat": "^3.0.2",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.4.19"
+  }
+}
